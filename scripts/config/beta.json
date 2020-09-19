@@ -1,0 +1,9 @@
+{
+    "folder": "C:\\Program Files (x86)\\World of Warcraft\\_beta_\\Interface\\AddOns",
+    "addons": [
+        {
+            "name": "ElvUi",
+            "repository": "https://git.tukui.org/elvui/elvui.git"
+        }
+    ]
+}
