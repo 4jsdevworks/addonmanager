@@ -1,2 +1,2 @@
 # addonmanager
-Update world of warcraft addon automatically
+Update world of warcraft addons automatically
