@@ -3,7 +3,11 @@
     "addons": [
         {
             "name": "ElvUi",
-            "repository": "https://git.tukui.org/elvui/elvui.git"
+            "repository": "https://git.tukui.org/elvui/elvui.git",
+            "branch": "beta",
+            "folders": [
+                "ElvUI", "ElvUI_OptionsUI"
+            ]
         }
     ]
 }
